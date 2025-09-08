@@ -1,0 +1,39 @@
+{
+  "plot_bgcolor": "#141A32",
+  "paper_bgcolor": "#141A32",
+  "xaxis": {
+    "automargin": true,
+    "tickmode": "array",
+    "tickvals": [
+      "PRD",
+      "EFF",
+      "ELU",
+      "RAS"
+    ],
+    "ticktext": [
+      "PRD",
+      "EFF",
+      "ELU",
+      "RAS"
+    ],
+    "tickfont": {
+      "color": "white",
+      "family": "Syncopate",
+      "size": 10
+    }
+  },
+  "yaxis": {
+    "range": [
+      70,
+      103
+    ],
+    "showticklabels": false
+  },
+  "margin": {
+    "l": 2,
+    "r": 2,
+    "t": 1,
+    "b": 15
+  },
+  "autosize": true
+}

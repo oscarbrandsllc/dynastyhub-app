@@ -1,0 +1,3909 @@
+[
+  {
+    "id": "colston-loveland",
+    "name": "COLSTON LOVELAND",
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer10.rsx",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh; font-weight: 400;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh;\">lbs</span>",
+        "NFL": "<span style=\"font-family: 'Orbitron', sans-serif; font-size: 1.25cqh; font-weight: 600; color: #efefef;\">LV</span>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1cqh; color: #efefef;\">FILM |</span> <span style=\"font-family:   'bruno ace', sans-serif; font-size: 1.2cqh; font-weight: 400; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.1cqh; font-weight: 800; color: #efefef;\">OVR |</span> <span style=\"font-family: 'orbitron', sans-serif; font-size: 1.4cqh; font-weight: 600; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375415",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385540",
+          "line": {
+            "color": "#525a7730",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            56,
+            63,
+            70,
+            48,
+            90,
+            98,
+            95,
+            56
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "TYLER WARREN",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "none",
+          "hovertemplate": ""
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            46,
+            53,
+            60,
+            38,
+            80,
+            88,
+            85
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color: #ef91ff;\">56th%</span>",
+            "<span style=\"color: #ef91ff;\">63rd%</span>",
+            "<span style=\"color: #b991ff;\">7Oth%</span>",
+            "<span style=\"color: #ef91ff;\">48th%</span>",
+            "<span style=\"color: #00ffaf;\">9Oth%</span>",
+            "<span style=\"color: #00ffaf;\">98th%</span>",
+            "<span style=\"color: #00ffaf;\">95th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "TGT",
+              "YPRR",
+              "DMTR",
+              "1DRR",
+              "YDS",
+              "IMP/OPP",
+              "TgtQR"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "COLSTON LOVELAND",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "y": [
+            74,
+            74,
+            91,
+            91
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "stats": {
+      "production": 71.1,
+      "efficiency": 71.2,
+      "elusiveness": null,
+      "athleticism": 91.0,
+      "metric3": 91.1
+    },
+    "metric3Label": "RRG",
+    "metric3LabelFull": "ROUTE RUNNING GRADE"
+  },
+  {
+    "id": "ashton-jeanty",
+    "name": "ASHTON JEANTY",
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer11.rsx",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.7em;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.6em;\">lbs</span>",
+        "CFB": "<i style=\"font-family: 'bruno ace', sans-serif; font-size: 0.85em; color: #adb5ee;\">BSU</i>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.78em; color: #efefef;\">FILM |</span> <span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.95em; font-weight: 700; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.88em; font-weight: 600; color: #efefef;\">OVR |</span> <span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.2em; font-weight: 700; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375455",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385565",
+          "line": {
+            "color": "#525a7735",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            94,
+            93,
+            98,
+            87,
+            98,
+            87,
+            98,
+            94
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "ASHTON JEANTY",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": "#6300FF",
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "r+theta"
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            84,
+            83,
+            88,
+            77,
+            88,
+            77,
+            88
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color: #00ffaf;\">94th%</span>",
+            "<span style=\"color: #00ffaf;\">93rd%</span>",
+            "<span style=\"color: #00ffaf;\">98th%</span>",
+            "<span style=\"color: #bcd2ff;\">87th%</span>",
+            "<span style=\"color: #00ffaf;\">98th%</span>",
+            "<span style=\"color: #bcd2ff;\">87th%</span>",
+            "<span style=\"color: #00ffaf;\">98th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "YPC",
+              "DMTR",
+              "ELU",
+              "YDS/OPP",
+              "IMP",
+              "recYDS",
+              "YACO/A"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Orbitron"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "ASHTON JEANTY",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 45,
+          "r": 45,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "y": [
+            95,
+            94,
+            98,
+            89
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "stats": {
+      "production": 95.1,
+      "efficiency": 94.3,
+      "elusiveness": 98.0,
+      "athleticism": 89.3,
+      "metric3": 98.1
+    },
+    "metric3Label": "ELU",
+    "metric3LabelFull": "ELUSIVENESS GRADE"
+  },
+  {
+    "id": "travis-hunter",
+    "name": "TRAVIS HUNTER",
+    "table": [
+      {
+        "POS": "WR",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: .95em; color: #6affd0;\"        >21.9</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.7em;\"        >y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 0.95em; color: #6affd0;\"        >6'0\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #65aeff;\"        >188</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.6em;\"        >lbs</span>",
+        "NFL": "<span style=\"font-family: 'Orbitron', sans-serif; font-size: 1.1em; font-weight: 600; color: #C19F5B;\"        >JAX</span>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.78em; color: #efefef;\"        >FILM |</span> <span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.95em; font-weight: 700; color: #6affd0;\"        >93%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.88em; font-weight: 600; color: #efefef;\"        >OVR |</span> <span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.2em; font-weight: 900; color: #6affd0;\"        >94</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375415",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385540",
+          "line": {
+            "color": "#525a7730",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            69,
+            84,
+            77,
+            78,
+            72,
+            84,
+            99,
+            69
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines+markers",
+          "name": "TRAVIS HUNTER",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fill": "toself",
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "skip"
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            59,
+            74,
+            62,
+            68,
+            67,
+            74,
+            89
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color:#ef91ff;\">69th%</span>",
+            "<span style=\"color:#bcd2ff;\">84th%</span>",
+            "<span style=\"color:#b991ff;\">77th%</span>",
+            "<span style=\"color:#b991ff;\">78th%</span>",
+            "<span style=\"color:#b991ff;\">72nd%</span>",
+            "<span style=\"color:#bcd2ff;\">84th%</span>",
+            "<span style=\"color:#00ffaf;\">99th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "TGT",
+              "YPRR",
+              "DMTR",
+              "1DRR",
+              "YDS",
+              "IMP/OPP",
+              "TgtQR"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "TRAVIS HUNTER",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        },
+        "hovermode": false,
+        "dragmode": false
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "y": [
+            89,
+            96,
+            93,
+            96
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)",
+          "hoverinfo": "skip"
+        }
+      ],
+      "layout": {
+        "paper_bgcolor": "#141a32",
+        "plot_bgcolor": "#141a32",
+        "margin": {
+          "l": 20,
+          "r": 10,
+          "t": 10,
+          "b": 20
+        },
+        "xaxis": {
+          "showgrid": false,
+          "showline": false,
+          "zeroline": false,
+          "tickfont": {
+            "color": "white",
+            "size": 9
+          }
+        },
+        "yaxis": {
+          "range": [
+            0,
+            100
+          ],
+          "showgrid": false,
+          "showline": false,
+          "zeroline": false,
+          "tickmode": "array",
+          "tickvals": []
+        },
+        "showlegend": false
+      }
+    },
+    "source_file": "uploaded/travis hunter tab.txt",
+    "stats": {
+      "production": 88.7,
+      "efficiency": 96.3,
+      "elusiveness": null,
+      "athleticism": 96.1,
+      "metric3": 93.1
+    },
+    "metric3Label": "RRG",
+    "metric3LabelFull": "ROUTE RUNNING GRADE"
+  },
+  {
+    "id": "tetairoa-mcmillan",
+    "name": "TETAIROA MCMILLAN",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh; font-weight: 400;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh;\">lbs</span>",
+        "NFL": "<span style=\"font-family: 'Orbitron', sans-serif; font-size: 1.25cqh; font-weight: 600; color: #efefef;\">LV</span>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1cqh; color: #efefef;\">FILM |</span> <span style=\"font-family:   'bruno ace', sans-serif; font-size: 1.2cqh; font-weight: 400; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.1cqh; font-weight: 800; color: #efefef;\">OVR |</span> <span style=\"font-family: 'orbitron', sans-serif; font-size: 1.4cqh; font-weight: 600; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375415",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385540",
+          "line": {
+            "color": "#525a7730",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            95,
+            81,
+            91,
+            77,
+            98,
+            71,
+            65,
+            95
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "TETAIR\u00e2\u0080\u008bOA MCMILLAN",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "none",
+          "hovertemplate": ""
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            88,
+            79,
+            85,
+            70,
+            90,
+            69,
+            64
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color:#00ffaf;\">98th%</span>",
+            "<span style=\"color:#bcd2ff;\">81st%</span>",
+            "<span style=\"color:#00ffaf;\">93rd%</span>",
+            "<span style=\"color:#b991ff;\">77th%</span>",
+            "<span style=\"color:#00ffaf;\">99th%</span>",
+            "<span style=\"color:#b991ff;\">71st%</span>",
+            "<span style=\"color:#ef91ff;\">65th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "TGT",
+              "YPRR",
+              "DMTR",
+              "1DRR",
+              "YDS",
+              "IMP/OPP",
+              "TgtQR"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "TETAIROA  MCMILLAN",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "y": [
+            97,
+            90,
+            89,
+            87
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer10.rsx",
+    "stats": {
+      "production": 97.7,
+      "efficiency": 89.8,
+      "elusiveness": null,
+      "athleticism": 87.0,
+      "metric3": 89.0
+    },
+    "metric3Label": "RRG",
+    "metric3LabelFull": "ROUTE RUNNING GRADE"
+  },
+  {
+    "id": "tyler-warren",
+    "name": "TYLER WARREN",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.7em;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1em; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.6em;\">lbs</span>",
+        "CFB": "<i style=\"font-family: 'bruno ace', sans-serif; font-size: 0.85em; color: #adb5ee;\">BSU</i>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.78em; color: #efefef;\">FILM |</span> <span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.95em; font-weight: 700; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 0.88em; font-weight: 600; color: #efefef;\">OVR |</span> <span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.2em; font-weight: 700; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375415",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385540",
+          "line": {
+            "color": "#525a7730",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            56,
+            63,
+            70,
+            48,
+            90,
+            98,
+            95,
+            56
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "TYLER WARREN",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "none",
+          "hovertemplate": ""
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            46,
+            53,
+            60,
+            38,
+            80,
+            88,
+            85
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color: #ef91ff;\">56th%</span>",
+            "<span style=\"color: #ef91ff;\">63rd%</span>",
+            "<span style=\"color: #b991ff;\">7Oth%</span>",
+            "<span style=\"color: #ef91ff;\">48th%</span>",
+            "<span style=\"color: #00ffaf;\">9Oth%</span>",
+            "<span style=\"color: #00ffaf;\">98th%</span>",
+            "<span style=\"color: #00ffaf;\">95th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "TGT",
+              "YPRR",
+              "DMTR",
+              "1DRR",
+              "YDS",
+              "IMP/OPP",
+              "TgtQR"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "TYLER WARREN",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "y": [
+            92,
+            98,
+            86,
+            94
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer11.rsx",
+    "stats": {
+      "production": 87.8,
+      "efficiency": 88.8,
+      "elusiveness": null,
+      "athleticism": 93.3,
+      "metric3": 86.7
+    },
+    "metric3Label": "RRG",
+    "metric3LabelFull": "ROUTE RUNNING GRADE"
+  },
+  {
+    "id": "treveyon-henderson",
+    "name": "TREVEYON HENDERSON",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh; font-weight: 400;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh;\">lbs</span>",
+        "NFL": "<span style=\"font-family: 'Orbitron', sans-serif; font-size: 1.25cqh; font-weight: 600; color: #efefef;\">LV</span>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1cqh; color: #efefef;\">FILM |</span> <span style=\"font-family:   'bruno ace', sans-serif; font-size: 1.2cqh; font-weight: 400; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.1cqh; font-weight: 800; color: #efefef;\">OVR |</span> <span style=\"font-family: 'orbitron', sans-serif; font-size: 1.4cqh; font-weight: 600; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375455",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385565",
+          "line": {
+            "color": "#525a7735",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            91,
+            52,
+            54,
+            80,
+            74,
+            83,
+            91,
+            91
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "TREVEYON HENDERSON",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "r+theta"
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            91,
+            52,
+            54,
+            80,
+            74,
+            83,
+            91
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color:#00ffaf;\">91st%</span>",
+            "<span style=\"color:#ef91ff;\">52nd%</span>",
+            "<span style=\"color:#ef91ff;\">76th%</span>",
+            "<span style=\"color:#b991ff;\">80th%</span>",
+            "<span style=\"color:#b991ff;\">74th%</span>",
+            "<span style=\"color:#00ffaf;\">83rd%</span>",
+            "<span style=\"color:#00ffaf;\">91st%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "YPC",
+              "DMTR",
+              "ELU",
+              "YACO/A",
+              "IMP",
+              "recYDS",
+              "YDS/OPP"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.65,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "TREVEYON HENDERSON",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 20,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "y": [
+            90,
+            88,
+            76,
+            94
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer10.rsx",
+    "stats": {
+      "production": 89.6,
+      "efficiency": 88.3,
+      "elusiveness": 76.0,
+      "athleticism": 94.0,
+      "metric3": 76.2
+    },
+    "metric3Label": "ELU",
+    "metric3LabelFull": "ELUSIVENESS GRADE"
+  },
+  {
+    "id": "emeka-egbuka",
+    "name": "EMEKA EGBUKA",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh; font-weight: 400;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh;\">lbs</span>",
+        "NFL": "<span style=\"font-family: 'Orbitron', sans-serif; font-size: 1.25cqh; font-weight: 600; color: #efefef;\">LV</span>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1cqh; color: #efefef;\">FILM |</span> <span style=\"font-family:   'bruno ace', sans-serif; font-size: 1.2cqh; font-weight: 400; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.1cqh; font-weight: 800; color: #efefef;\">OVR |</span> <span style=\"font-family: 'orbitron', sans-serif; font-size: 1.4cqh; font-weight: 600; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375415",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385540",
+          "line": {
+            "color": "#525a7730",
+            "width": 0.9
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            89,
+            89,
+            92,
+            93,
+            53,
+            80,
+            92,
+            89
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "EMEKA EGBUKA",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "none",
+          "hovertemplate": ""
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            79,
+            79,
+            82,
+            83,
+            43,
+            70,
+            82
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color:#bcd2ff;\">89th%</span>",
+            "<span style=\"color:#bcd2ff;\">89th%</span>",
+            "<span style=\"color:#00ffaf;\">92nd%</span>",
+            "<span style=\"color:#00ffaf;\">93rd%</span>",
+            "<span style=\"color:#ef91ff;\">53rd%</span>",
+            "<span style=\"color:#bcd2ff;\">80th%</span>",
+            "<span style=\"color:#00ffaf;\">92nd%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "none",
+          "hovertemplate": "",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "TGT",
+              "YPRR",
+              "DMTR",
+              "1DRR",
+              "YDS",
+              "IMP/OPP",
+              "TgtQR"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "EMEKA EGBUKA",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "y": [
+            96,
+            94,
+            91,
+            87
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "RRG",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer10.rsx",
+    "stats": {
+      "production": 95.7,
+      "efficiency": 93.5,
+      "elusiveness": null,
+      "athleticism": 87.0,
+      "metric3": 91.1
+    },
+    "metric3Label": "RRG",
+    "metric3LabelFull": "ROUTE RUNNING GRADE"
+  },
+  {
+    "id": "cam-skattebo",
+    "name": "CAM SKATTEBO",
+    "table": [
+      {
+        "POS": "RB",
+        "AGE": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">21.3</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh; font-weight: 400;\">y.o.</span>",
+        "HT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #65aeff;\">5'8\\\"</b>",
+        "WT": "<b style=\"font-family: 'Syncopate', sans-serif; font-size: 1.2cqh; color: #6affd0;\">211</b><span style=\"font-family: 'Syncopate', sans-serif; font-size: 0.89cqh;\">lbs</span>",
+        "NFL": "<span style=\"font-family: 'Orbitron', sans-serif; font-size: 1.25cqh; font-weight: 600; color: #efefef;\">LV</span>",
+        "FILM GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1cqh; color: #efefef;\">FILM |</span> <span style=\"font-family:   'bruno ace', sans-serif; font-size: 1.2cqh; font-weight: 400; color: #6affd0;\">98%</span>",
+        "OVR GRADE": "<span style=\"font-family: 'bruno ace', sans-serif; font-size: 1.1cqh; font-weight: 800; color: #efefef;\">OVR |</span> <span style=\"font-family: 'orbitron', sans-serif; font-size: 1.4cqh; font-weight: 600; color: #6affd0;\">96</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375455",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385565",
+          "line": {
+            "color": "#525a7735",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            99,
+            91,
+            69,
+            69,
+            94,
+            98,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "CAM SKATTEBO",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF55",
+          "hoverinfo": "r+theta"
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            70,
+            89,
+            81,
+            59,
+            59,
+            84,
+            88
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color:#bcd2ff;\">80th%</span>",
+            "<span style=\"color:#00ffaf;\">99th%</span>",
+            "<span style=\"color:#00ffaf;\">91st%</span>",
+            "<span style=\"color:#ef91ff;\">69th%</span>",
+            "<span style=\"color:#ef91ff;\">69th%</span>",
+            "<span style=\"color:#00ffaf;\">94th%</span>",
+            "<span style=\"color:#00ffaf;\">98th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9.3,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "YPC",
+              "DMTR",
+              "ELU",
+              "YACO/A",
+              "IMP",
+              "recYDS",
+              "YDS/OPP"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.55,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "CAM SKATTEBO",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 45,
+          "r": 45,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "y": [
+            95,
+            87,
+            93,
+            77
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "source_file": "DH-RETOOL-FILES/EXPORTS DIRECTLY FROM RETOOL/export to toolscript folder/src/tabbedContainer10.rsx",
+    "stats": {
+      "production": 94.9,
+      "efficiency": 86.9,
+      "elusiveness": 93.0,
+      "athleticism": 77.0,
+      "metric3": 92.7
+    },
+    "metric3Label": "ELU",
+    "metric3LabelFull": "ELUSIVENESS GRADE"
+  },
+  {
+    "id": "omarion-hampton",
+    "name": "OMARION HAMPTON",
+    "table": [
+      {
+        "POS": "RB",
+        "NFL": "<b style=\"font-family:        'orbitron',        sans-serif;        font-size: 1.1em;        color: #FFC20E;\"       >LAC</b>",
+        "AGE": "<b style=\"font-family:        'Syncopate',        sans-serif;        font-size: 1em;        color: #6affd0;\"       >22.0</b><span style=\"       font-family: 'Syncopate',        sans-serif;        font-size: 0.7em;\"       >y.o.</span>",
+        "HT": "<b style=\"font-family:        'Syncopate',        sans-serif;        font-size: 1em;        color: #6affd0;\"       >6'0\\\"</b>",
+        "WT": "<b style=\"font-family:        'Syncopate',        sans-serif;        font-size: 1em;        color: #6affd0;\"       >221</b><span style=       \"       font-family: 'Syncopate',        sans-serif;        font-size: 0.6em;\"       >lbs</span>",
+        "FILM GRADE": "<span style=\"font-family:        'bruno ace',        sans-serif;        font-size: 0.78em;        color: #efefef;\"       >FILM |</span> <span style=\"font-family:        'bruno ace',        sans-serif;        font-size: 0.95em;        font-weight: 700;        color: #65aeff;\"       >86%</span>",
+        "OVR GRADE": "<span style=\"font-family:        'bruno ace',        sans-serif;        font-size: 0.85em;        font-weight: 600;        color: #efefef;\"       >OVR |</span> <span style=\"font-family:        'bruno ace',        sans-serif;        font-size: 1.15em;        font-weight: 700;        color: #6affd0;\"       >90</span>%"
+      }
+    ],
+    "radar": {
+      "data": [
+        {
+          "type": "scatterpolar",
+          "r": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2c334f62",
+          "line": {
+            "color": "#525a7739",
+            "width": 1
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2D345153",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60,
+            60
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#2F365250",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40,
+            40
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#30375415",
+          "line": {
+            "color": "#525a7729",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "mode": "lines",
+          "fill": "toself",
+          "opacity": 1,
+          "fillcolor": "#31385520",
+          "line": {
+            "color": "#525a7730",
+            "width": 0.9
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            57,
+            69,
+            72,
+            87,
+            74,
+            57,
+            65,
+            57
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71,
+            347.14
+          ],
+          "fill": "toself",
+          "name": "OMARION HAMPTON",
+          "mode": "lines+markers",
+          "line": {
+            "color": "#6700ff",
+            "width": 2
+          },
+          "marker": {
+            "color": [
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#6300ff",
+              "#00000000"
+            ],
+            "size": [
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5,
+              5
+            ]
+          },
+          "fillcolor": "#5300FF50",
+          "hoverinfo": "r+theta"
+        },
+        {
+          "type": "scatterpolar",
+          "r": [
+            47,
+            59,
+            72,
+            87,
+            74,
+            57,
+            65
+          ],
+          "theta": [
+            347.14,
+            38.57,
+            90,
+            141.43,
+            192.86,
+            244.29,
+            295.71
+          ],
+          "mode": "text",
+          "text": [
+            "<span style=\"color:#ef91ff;\">57th%</span>",
+            "<span style=\"color:#ef91ff;\">69th%</span>",
+            "<span style=\"color:#b991ff;\">72nd%</span>",
+            "<span style=\"color:#bcd2ff;\">87th%</span>",
+            "<span style=\"color:#b991ff;\">74th%</span>",
+            "<span style=\"color:#ef91ff;\">57th%</span>",
+            "<span style=\"color:#ef91ff;\">65th%</span>"
+          ],
+          "textposition": "middle center",
+          "textfont": {
+            "size": 9.3,
+            "weight": 400,
+            "family": "Bruno Ace"
+          },
+          "hoverinfo": "skip",
+          "showlegend": false
+        }
+      ],
+      "layout": {
+        "polar": {
+          "bgcolor": "#141a32",
+          "radialaxis": {
+            "range": [
+              0,
+              100
+            ],
+            "showgrid": false,
+            "ticks": "",
+            "showticklabels": false,
+            "showline": false,
+            "linewidth": 0,
+            "linecolor": "rgba(0,0,0,0)"
+          },
+          "angularaxis": {
+            "showgrid": false,
+            "showline": false,
+            "tickmode": "array",
+            "tickvals": [
+              347.14,
+              38.57,
+              90,
+              141.43,
+              192.86,
+              244.29,
+              295.71
+            ],
+            "ticktext": [
+              "YPC",
+              "DMTR",
+              "ELU",
+              "YACO/A",
+              "IMP",
+              "recYDS",
+              "YDS/OPP"
+            ],
+            "tickfont": {
+              "color": "white",
+              "size": 10.5,
+              "family": "Bruno Ace"
+            },
+            "direction": "counterclockwise",
+            "rotation": -0.75,
+            "layer": "above traces"
+          }
+        },
+        "paper_bgcolor": "#141a32",
+        "showlegend": false,
+        "annotations": [
+          {
+            "xref": "paper",
+            "yref": "paper",
+            "x": 0.5,
+            "y": 1.15,
+            "text": "OMARION HAMPTON",
+            "showarrow": false,
+            "font": {
+              "color": "#6300ff",
+              "size": 21,
+              "weight": 400,
+              "family": "orbitron"
+            },
+            "xanchor": "center",
+            "yanchor": "bottom"
+          }
+        ],
+        "margin": {
+          "l": 48,
+          "r": 47,
+          "t": 70,
+          "b": 30
+        }
+      }
+    },
+    "sparkline": {
+      "data": [
+        {
+          "x": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "y": [
+            86,
+            83,
+            86,
+            89
+          ],
+          "type": "scatter",
+          "mode": "lines+text",
+          "textposition": "top center",
+          "textfont": {
+            "color": "white",
+            "family": "Quicksand",
+            "size": 8.5
+          },
+          "line": {
+            "color": "#5700ff",
+            "shape": "spline"
+          },
+          "cliponaxis": false,
+          "fill": "tozeroy",
+          "fillcolor": "rgba(87,0,255,0.2)"
+        }
+      ],
+      "layout": {
+        "plot_bgcolor": "#141A32",
+        "paper_bgcolor": "#141A32",
+        "xaxis": {
+          "automargin": true,
+          "tickmode": "array",
+          "tickvals": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "ticktext": [
+            "PRD",
+            "EFF",
+            "ELU",
+            "ATH"
+          ],
+          "tickfont": {
+            "color": "white",
+            "family": "Syncopate",
+            "size": 10
+          }
+        },
+        "yaxis": {
+          "range": [
+            70,
+            103
+          ],
+          "showticklabels": false
+        },
+        "margin": {
+          "l": 2,
+          "r": 2,
+          "t": 1,
+          "b": 15
+        },
+        "autosize": true
+      }
+    },
+    "source_file": "uploaded/Hampton Tab.txt",
+    "stats": {
+      "production": 86.2,
+      "efficiency": 82.8,
+      "elusiveness": 86.0,
+      "athleticism": 89.0,
+      "metric3": 86.4
+    },
+    "metric3Label": "ELU",
+    "metric3LabelFull": "ELUSIVENESS GRADE"
+  }
+]

@@ -1,0 +1,1 @@
+This folder is intentionally empty. Codegen should create index.html, app.js, styles.css here.

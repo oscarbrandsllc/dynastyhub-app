@@ -1,0 +1,422 @@
+[
+  {
+    "id": "statistic329",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.981"
+  },
+  {
+    "id": "statistic350",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.981"
+  },
+  {
+    "id": "statistic389",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.981"
+  },
+  {
+    "id": "statistic274",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.943"
+  },
+  {
+    "id": "statistic332",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.943"
+  },
+  {
+    "id": "statistic351",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.943"
+  },
+  {
+    "id": "statistic298",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.893"
+  },
+  {
+    "id": "statistic335",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.893"
+  },
+  {
+    "id": "statistic352",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.893"
+  },
+  {
+    "id": "statistic302",
+    "label": "PRODUCTION GRADE",
+    "value": ".951"
+  },
+  {
+    "id": "statistic338",
+    "label": "PRODUCTION GRADE",
+    "value": ".951"
+  },
+  {
+    "id": "statistic353",
+    "label": "PRODUCTION GRADE",
+    "value": ".951"
+  },
+  {
+    "id": "statistic341",
+    "label": "PRODUCTION GRADE",
+    "value": ".977"
+  },
+  {
+    "id": "statistic354",
+    "label": "PRODUCTION GRADE",
+    "value": ".977"
+  },
+  {
+    "id": "statistic382",
+    "label": "PRODUCTION GRADE",
+    "value": ".977"
+  },
+  {
+    "id": "statistic344",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.898"
+  },
+  {
+    "id": "statistic355",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.898"
+  },
+  {
+    "id": "statistic383",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.898"
+  },
+  {
+    "id": "statistic347",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.89"
+  },
+  {
+    "id": "statistic356",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.89"
+  },
+  {
+    "id": "statistic384",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.89"
+  },
+  {
+    "id": "statistic349",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.87"
+  },
+  {
+    "id": "statistic357",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.87"
+  },
+  {
+    "id": "statistic385",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.87"
+  },
+  {
+    "id": "statistic319",
+    "label": "PRODUCTION GRADE",
+    "value": ".862"
+  },
+  {
+    "id": "statistic358",
+    "label": "PRODUCTION GRADE",
+    "value": ".862"
+  },
+  {
+    "id": "statistic386",
+    "label": "PRODUCTION GRADE",
+    "value": ".862"
+  },
+  {
+    "id": "statistic323",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.828"
+  },
+  {
+    "id": "statistic359",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.828"
+  },
+  {
+    "id": "statistic387",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.828"
+  },
+  {
+    "id": "statistic327",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.864"
+  },
+  {
+    "id": "statistic360",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.864"
+  },
+  {
+    "id": "statistic388",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.864"
+  },
+  {
+    "id": "statistic330",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.89"
+  },
+  {
+    "id": "statistic361",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.89"
+  },
+  {
+    "id": "statistic390",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.89"
+  },
+  {
+    "id": "statistic285",
+    "label": "PRODUCTION GRADE",
+    "value": ".887"
+  },
+  {
+    "id": "statistic333",
+    "label": "PRODUCTION GRADE",
+    "value": ".887"
+  },
+  {
+    "id": "statistic362",
+    "label": "PRODUCTION GRADE",
+    "value": ".887"
+  },
+  {
+    "id": "statistic299",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.963"
+  },
+  {
+    "id": "statistic336",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.963"
+  },
+  {
+    "id": "statistic363",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.963"
+  },
+  {
+    "id": "statistic300",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.931"
+  },
+  {
+    "id": "statistic339",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.931"
+  },
+  {
+    "id": "statistic364",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.931"
+  },
+  {
+    "id": "statistic303",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.961"
+  },
+  {
+    "id": "statistic342",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.961"
+  },
+  {
+    "id": "statistic365",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.961"
+  },
+  {
+    "id": "statistic305",
+    "label": "PRODUCTION GRADE",
+    "value": ".949"
+  },
+  {
+    "id": "statistic345",
+    "label": "PRODUCTION GRADE",
+    "value": ".949"
+  },
+  {
+    "id": "statistic366",
+    "label": "PRODUCTION GRADE",
+    "value": ".949"
+  },
+  {
+    "id": "statistic307",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.869"
+  },
+  {
+    "id": "statistic348",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.869"
+  },
+  {
+    "id": "statistic367",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.869"
+  },
+  {
+    "id": "statistic309",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.927"
+  },
+  {
+    "id": "statistic316",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.927"
+  },
+  {
+    "id": "statistic368",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.927"
+  },
+  {
+    "id": "statistic311",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.770"
+  },
+  {
+    "id": "statistic320",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.770"
+  },
+  {
+    "id": "statistic369",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.770"
+  },
+  {
+    "id": "statistic314",
+    "label": "PRODUCTION GRADE",
+    "value": ".951"
+  },
+  {
+    "id": "statistic324",
+    "label": "PRODUCTION GRADE",
+    "value": ".951"
+  },
+  {
+    "id": "statistic370",
+    "label": "PRODUCTION GRADE",
+    "value": ".951"
+  },
+  {
+    "id": "statistic318",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.916"
+  },
+  {
+    "id": "statistic328",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.916"
+  },
+  {
+    "id": "statistic371",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.916"
+  },
+  {
+    "id": "statistic322",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.982"
+  },
+  {
+    "id": "statistic331",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.982"
+  },
+  {
+    "id": "statistic372",
+    "label": "ROUTE RUNNING GRADE",
+    "value": "0.982"
+  },
+  {
+    "id": "statistic326",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.933"
+  },
+  {
+    "id": "statistic334",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.933"
+  },
+  {
+    "id": "statistic373",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.933"
+  },
+  {
+    "id": "statistic297",
+    "label": "PRODUCTION GRADE",
+    "value": ".896"
+  },
+  {
+    "id": "statistic337",
+    "label": "PRODUCTION GRADE",
+    "value": ".896"
+  },
+  {
+    "id": "statistic374",
+    "label": "PRODUCTION GRADE",
+    "value": ".896"
+  },
+  {
+    "id": "statistic301",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.883"
+  },
+  {
+    "id": "statistic340",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.883"
+  },
+  {
+    "id": "statistic375",
+    "label": "EFFICIENCY GRADE",
+    "value": "0.883"
+  },
+  {
+    "id": "statistic304",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.762"
+  },
+  {
+    "id": "statistic343",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.762"
+  },
+  {
+    "id": "statistic376",
+    "label": "ELUSIVENESS GRADE",
+    "value": "0.762"
+  },
+  {
+    "id": "statistic306",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.940"
+  },
+  {
+    "id": "statistic346",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.940"
+  },
+  {
+    "id": "statistic377",
+    "label": "ATHLETICISM GRADE",
+    "value": "0.940"
+  }
+]

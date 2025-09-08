@@ -1,0 +1,31 @@
+[
+  {
+    "x": [
+      "PRD",
+      "EFF",
+      "ELU",
+      "RAS"
+    ],
+    "y": [
+      92,
+      98,
+      86,
+      94
+    ],
+    "type": "scatter",
+    "mode": "lines+text",
+    "textposition": "top center",
+    "textfont": {
+      "color": "white",
+      "family": "Quicksand",
+      "size": 8.5
+    },
+    "line": {
+      "color": "#5700ff",
+      "shape": "spline"
+    },
+    "cliponaxis": false,
+    "fill": "tozeroy",
+    "fillcolor": "rgba(87,0,255,0.2)"
+  }
+]
