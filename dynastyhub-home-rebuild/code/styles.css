@@ -1,0 +1,205 @@
+:root {
+  --color-canvas: #141a32;
+  --color-surface: #1a1e35;
+  --color-surface-secondary: #2c334f;
+  --color-text: #efefef;
+  --color-muted: #b7bddc;
+  --color-accent: #7300ff;
+  --color-info: #6bb0ff;
+  --color-success: #6affd0;
+  --color-danger: #ff0266;
+
+  --radius-panel: 12px;
+  --radius-chip: 14px;
+  --radius-button: 18px;
+
+  --font-heading: 'Orbitron', sans-serif;
+  --font-display: 'Bruno Ace', sans-serif;
+  --font-mono: 'Syncopate', sans-serif;
+  --font-body: 'DM Sans', 'Quicksand', sans-serif;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--color-canvas);
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+#app {
+  display: flex;
+  min-height: 100vh;
+}
+.sidebar {
+  width: 60px;
+  background: var(--color-surface-secondary);
+}
+.main {
+  flex: 1;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.header h1 {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 24px;
+}
+.top-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.middle-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.panel {
+  background: var(--color-surface);
+  border: 1px solid var(--color-surface-secondary);
+  border-radius: var(--radius-panel);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.panel.full {
+  margin-top: 16px;
+}
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.panel-header h2 {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 18px;
+  font-weight: 600;
+}
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.chip {
+  background: var(--color-canvas);
+  border: 1px solid var(--color-surface-secondary);
+  border-radius: var(--radius-chip);
+  padding: 6px 12px;
+  color: var(--color-muted);
+  font-family: var(--font-body);
+  font-weight: 600;
+  cursor: pointer;
+}
+.chip:hover,
+.chip.active {
+  border-color: var(--color-accent);
+  color: var(--color-text);
+  box-shadow: 0 0 0 1px var(--color-accent) inset;
+}
+.chip:focus-visible {
+  outline: 2px solid var(--color-accent);
+}
+.mini-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.mini-table {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 4px;
+  background: var(--color-canvas);
+  border: 1px solid var(--color-surface-secondary);
+  border-radius: 9px;
+  padding: 8px;
+  font-family: var(--font-heading);
+  font-size: 12px;
+}
+.mini-table .cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 4px;
+}
+.chart {
+  background: var(--color-canvas);
+  border: 1px dashed var(--color-surface-secondary);
+  border-radius: var(--radius-panel);
+  min-height: 260px;
+}
+.chart.spark {
+  min-height: 140px;
+}
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin: 10px 0;
+}
+.stat-card {
+  background: var(--color-canvas);
+  border: 1px solid var(--color-surface-secondary);
+  border-radius: var(--radius-panel);
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.stat-title {
+  font: 700 10px var(--font-body);
+  color: var(--color-muted);
+  letter-spacing: .03em;
+}
+.stat-value {
+  font: 800 18px var(--font-display);
+  color: var(--color-success);
+}
+.nav-buttons {
+  display: flex;
+  gap: 8px;
+}
+.nav-btn {
+  background: var(--color-surface-secondary);
+  border: 1px solid var(--color-muted);
+  border-radius: var(--radius-button);
+  padding: 6px 12px;
+  color: var(--color-text);
+  cursor: pointer;
+  font-family: var(--font-body);
+}
+.nav-btn:hover {
+  border-color: var(--color-accent);
+}
+.nav-btn:focus-visible {
+  outline: 2px solid var(--color-accent);
+}
+.embed {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: var(--radius-panel);
+}
+.embed-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 100%;
+}
+.middle-grid .panel {
+  height: 300px;
+}
+.panel.full .embed {
+  height: 400px;
+}
+
+@media (max-width: 1100px) {
+  .top-row,
+  .middle-grid {
+    grid-template-columns: 1fr;
+  }
+}
