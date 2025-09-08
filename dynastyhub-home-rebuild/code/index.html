@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dynasty Hub Home</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&family=Bruno+Ace&family=Syncopate:wght@400;700&family=DM+Sans:wght@400;500;700&family=Quicksand:wght@400;500;700&display=swap" rel="stylesheet" />
+  <script src="https://cdn.plot.ly/plotly-2.24.1.min.js"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <h1 class="logo">DH</h1>
+    </aside>
+    <main class="main">
+      <header class="header">
+        <h2>Dynasty Hub</h2>
+      </header>
+      <div class="chip-row" id="player-chips"></div>
+      <section class="top-row">
+        <div class="prospects-panel panel">
+          <div id="mini-table" class="mini-table"></div>
+          <div id="radar" class="chart radar"></div>
+          <div class="stat-cards">
+            <div class="stat-card">
+              <div class="stat-title">PRODUCTION GRADE</div>
+              <div class="stat-value" id="stat-production"></div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-title">EFFICIENCY GRADE</div>
+              <div class="stat-value" id="stat-efficiency"></div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-title" id="stat-metric3-title"></div>
+              <div class="stat-value" id="stat-metric3"></div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-title">ATHLETICISM GRADE</div>
+              <div class="stat-value" id="stat-athleticism"></div>
+            </div>
+          </div>
+          <div id="sparkline" class="chart sparkline"></div>
+          <div class="nav-buttons">
+            <button id="prev">Previous</button>
+            <button id="next">Next</button>
+          </div>
+        </div>
+        <div class="analytics-panel panel">
+          <iframe id="embed-syop" class="embed" loading="lazy"></iframe>
+          <iframe id="embed-gauges" class="embed" loading="lazy"></iframe>
+        </div>
+      </section>
+      <section class="middle-grid">
+        <iframe id="embed-ownership" class="embed panel" loading="lazy"></iframe>
+        <iframe id="embed-top60" class="embed panel" loading="lazy"></iframe>
+        <iframe id="embed-flex" class="embed panel" loading="lazy"></iframe>
+        <iframe id="embed-ppr" class="embed panel" loading="lazy"></iframe>
+      </section>
+      <section class="bottom-embed panel">
+        <iframe id="embed-hit-rate" class="embed" loading="lazy"></iframe>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
