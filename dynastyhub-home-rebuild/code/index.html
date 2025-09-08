@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynasty Hub Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Bruno+Ace&family=Syncopate:wght@400;700&family=DM+Sans&family=Quicksand&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <nav class="sidebar">
+            <div class="logo">
+                <h1>DH</h1>
+            </div>
+            <ul>
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">Data Hub</a></li>
+                <li><a href="#">Rookies</a></li>
+                <li><a href="#">League HQ</a></li>
+                <li><a href="#">Rankings</a></li>
+                <li><a href="#">Research</a></li>
+                <li><a href="#">Charts</a></li>
+                <li><a href="#">Subscribe</a></li>
+                <li><a href="#">--KEY</a></li>
+            </ul>
+            <div class="socials">
+                <p>Follow @dynastyhff</p>
+                <p>THE ORACLE</p>
+                <p>cboz@cbozinski.com</p>
+            </div>
+        </nav>
+        <main class="main-content">
+            <header class="header">
+                 <!-- Header is minimal based on screenshots -->
+            </header>
+            <div class="grid-container">
+                <section class="panel top-left-panel">
+                    <div class="panel-header">
+                        <h2>2025 Top Rookie Prospects</h2>
+                        <p>(Prospect Grades & Percentiles)</p>
+                    </div>
+                    <div class="chips-container" id="chips-container">
+                        <!-- Player chips will be inserted here by JavaScript -->
+                    </div>
+                    <div class="player-details-grid">
+                        <div class="player-info-table-container">
+                            <table class="player-info-table" id="player-info-table">
+                                <!-- Player table will be inserted here -->
+                            </table>
+                        </div>
+                        <div class="radar-chart-container">
+                            <div id="radar-chart"></div>
+                        </div>
+                        <div class="stats-container" id="stats-container">
+                            <div class="stat-cards" id="stat-cards">
+                                <!-- Stat cards will be inserted here -->
+                            </div>
+                             <div class="sparkline-chart-container">
+                                <div id="sparkline-chart"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                        <button id="prev-button">&lt; Previous</button>
+                        <button id="next-button">Next &gt;</button>
+                    </div>
+                </section>
+
+                <section class="panel top-right-panel">
+                    <div class="panel-header">
+                        <h3>Career Length Analytics</h3>
+                        <p>Years of Production vs [AQ] Breakout</p>
+                        <div class="key">KEY</div>
+                    </div>
+                    <div class="iframe-container-top-right">
+                        <iframe id="syop-chart" src="" frameborder="0" scrolling="no"></iframe>
+                        <iframe id="position-average-chart" src="" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </section>
+
+                <section class="panel middle-left-panel">
+                     <div class="panel-header">
+                        <h3>2025 Distributions</h3>
+                        <p>[Championship Ownership Data & Top 60 Positional Distribution]</p>
+                     </div>
+                    <div class="iframe-container">
+                        <iframe id="championship-chart" src="" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </section>
+
+                <section class="panel middle-right-panel">
+                     <div class="panel-header">
+                        <h3>Consistency &amp; Ceiling</h3>
+                         <p>[AVG PPG (xFPTS) &amp; Top 3 Hits]</p>
+                         <div class="key">KEY</div>
+                    </div>
+                    <div class="iframe-container-grid">
+                        <iframe id="flex-top20-chart" src="" frameborder="0" scrolling="no"></iframe>
+                        <iframe id="all-pos-ppr-chart" src="" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </section>
+
+                <section class="panel full-width-panel">
+                     <div class="panel-header">
+                        <h3>NFL Draft -- Player Hit Rates</h3>
+                        <p>2008-2020 NFL Draft, Overall & Positional Hit Rate Trends</p>
+                    </div>
+                    <div class="iframe-container">
+                        <iframe id="hit-rate-chart" src="" frameborder="0" scrolling="no"></iframe>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

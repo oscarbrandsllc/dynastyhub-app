@@ -1,0 +1,295 @@
+/* /code/styles.css */
+
+/* 1. Root Variables from tokens.json */
+:root {
+    --color-canvas: #141a32;
+    --color-surface: #1a1e35;
+    --color-surface-secondary: #2c334f;
+    --color-text: #efefef;
+    --color-muted: #b7bddc;
+    --color-accent: #7300ff;
+    --color-info: #6bb0ff;
+    --color-success: #6affd0;
+    --color-danger: #ff0266;
+
+    --radius-panel: 12px;
+    --radius-chip: 14px;
+    --radius-button: 18px;
+
+    --font-heading: 'Orbitron', sans-serif;
+    --font-display: 'Bruno Ace', sans-serif;
+    --font-mono: 'Syncopate', sans-serif;
+    --font-body: 'DM Sans', 'Quicksand', sans-serif;
+}
+
+/* 2. General Body Styles */
+body {
+    background-color: var(--color-canvas);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* 3. Layout Styles */
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 240px;
+    background-color: var(--color-surface);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid var(--color-surface-secondary);
+}
+
+.main-content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+/* 4. Panel Styles */
+.panel {
+    background-color: var(--color-surface);
+    border-radius: var(--radius-panel);
+    border: 1px solid var(--color-surface-secondary);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.panel-header {
+    margin-bottom: 15px;
+}
+
+.panel-header h2, .panel-header h3 {
+    font-family: var(--font-heading);
+    margin: 0 0 5px 0;
+    color: var(--color-text);
+}
+
+.panel-header p {
+    font-family: var(--font-mono);
+    color: var(--color-muted);
+    font-size: 0.8em;
+    margin: 0;
+}
+
+.panel-header .key {
+    background-color: var(--color-surface-secondary);
+    color: var(--color-text);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: var(--font-mono);
+    font-size: 0.8em;
+    float: right;
+}
+
+
+/* 5. Grid Container Styles */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: min-content;
+    gap: 20px;
+    width: 100%;
+}
+
+.top-left-panel { grid-area: 1 / 1 / 2 / 2; }
+.top-right-panel { grid-area: 1 / 2 / 2 / 3; }
+.middle-left-panel { grid-area: 2 / 1 / 3 / 2; }
+.middle-right-panel { grid-area: 2 / 2 / 3 / 3; }
+.full-width-panel { grid-area: 3 / 1 / 4 / 3; }
+
+
+/* 6. Sidebar Styles */
+.sidebar .logo {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.sidebar .logo h1 {
+    font-family: var(--font-display);
+    color: var(--color-accent);
+    font-size: 3em;
+    margin: 0;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    flex-grow: 1;
+}
+
+.sidebar ul li a {
+    color: var(--color-muted);
+    text-decoration: none;
+    font-family: var(--font-mono);
+    display: block;
+    padding: 15px 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.sidebar ul li a.active, .sidebar ul li a:hover {
+    color: var(--color-text);
+    background-color: var(--color-surface-secondary);
+}
+
+.sidebar .socials {
+    font-family: var(--font-mono);
+    font-size: 0.8em;
+    color: var(--color-muted);
+    text-align: center;
+}
+
+/* 7. Top-Left Panel Styles */
+.chips-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 15px;
+}
+
+.chip {
+    background-color: var(--color-surface-secondary);
+    color: var(--color-muted);
+    padding: 8px 12px;
+    border-radius: var(--radius-chip);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    border: 1px solid transparent;
+}
+
+.chip.active, .chip:hover {
+    background-color: var(--color-accent);
+    color: var(--color-text);
+    border-color: var(--color-info);
+    transform: translateY(-2px);
+}
+
+.player-details-grid {
+    display: grid;
+    grid-template-columns: 55% 45%;
+    grid-template-rows: auto 1fr;
+    gap: 15px;
+    flex-grow: 1;
+}
+
+.player-info-table-container {
+    grid-column: 1 / 3;
+}
+
+.player-info-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8em;
+}
+
+.player-info-table td {
+    padding: 5px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.radar-chart-container {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
+
+.stats-container {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.stat-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+.stat-card {
+    background-color: var(--color-surface-secondary);
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.stat-card .value {
+    font-family: var(--font-heading);
+    font-size: 1.8em;
+    color: var(--color-success);
+}
+
+.stat-card .label {
+    font-family: var(--font-mono);
+    font-size: 0.7em;
+    color: var(--color-muted);
+    text-transform: uppercase;
+}
+
+.sparkline-chart-container {
+    background-color: var(--color-surface-secondary);
+    border-radius: 8px;
+    padding: 5px;
+    flex-grow: 1;
+}
+
+.panel-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.panel-footer button {
+    background-color: var(--color-surface-secondary);
+    color: var(--color-text);
+    border: 1px solid var(--color-surface-secondary);
+    padding: 10px 20px;
+    border-radius: var(--radius-button);
+    cursor: pointer;
+    font-family: var(--font-mono);
+    transition: all 0.2s ease-in-out;
+}
+
+.panel-footer button:hover {
+    background-color: var(--color-accent);
+    border-color: var(--color-info);
+}
+
+/* 8. Iframe Panel Styles */
+.iframe-container, .iframe-container-top-right, .iframe-container-grid {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.iframe-container-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.iframe-container iframe, .iframe-container-top-right iframe, .iframe-container-grid iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    min-height: 250px;
+}
+
+/* Make charts responsive */
+#radar-chart, #sparkline-chart {
+    width: 100%;
+    height: 100%;
+    min-height: 200px;
+}
